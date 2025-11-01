@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Episterizo Q&A Portal</title>
+  <link href="./styles/style.css" rel="stylesheet">
+</head>
+<body class="bg-gray-100 text-gray-800">
+  <main class="max-w-3xl mx-auto p-6">
+    <h1 class="text-3xl font-bold text-center text-amber-600 mb-8">
+      Episterizo Q&A Portal
+    </h1>
+    <div id="content"></div>
+  </main>
+  <script type="module" src="./data/episterizo.js"></script>
+  <script>
+    import { episterizoData } from "./data/episterizo.js";
+    const container = document.getElementById("content");
+    episterizoData.forEach(ch => {
+      const section = document.createElement("section");
+      section.innerHTML = `
+        <h2 class="text-2xl font-semibold text-amber-700 mb-4">${ch.chapter}</h2>
+        ${ch.questions.map(q => `
+          <details class="bg-white shadow rounded-lg mb-3 p-4">
+            <summary class="font-medium cursor-pointer">${q.q}</summary>
+            <p class="mt-2 text-gray-700">${q.a}</p>
+            <a href="#" class="text-blue-600 text-sm">${q.link}</a>
+          </details>`).join("")}
+      `;
+      container.appendChild(section);
+    });
+  </script>
+</body>
+</html>

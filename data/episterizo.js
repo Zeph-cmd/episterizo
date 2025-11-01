@@ -1,0 +1,524 @@
+export const episterizoData = [
+  {
+    id: 1,
+    slug: 'redeemed-by-death-born-again-by-resurrection',
+    chapter: "Redeemed by Death, Born Again by Resurrection",
+    tagline: "Understanding that redemption and new birth are not the same reality.",
+    questions: [
+      {
+        q: "Does Jesus’ death alone make us born again?",
+        a: "No. The death of Jesus redeems us and brings forgiveness of sins, but it is His resurrection that births us into new life. Without resurrection, faith is empty and salvation incomplete.",
+        link: "Read: Episterizo, Chapter 1"
+      },
+      {
+        q: "Is every redeemed person automatically born again?",
+        a: "Redemption is the first step toward salvation, not the full experience. One can be redeemed yet not born again until he believes in the resurrection and confesses Jesus as Lord.",
+        link: "Read: Episterizo, Chapter 1"
+      },
+      {
+        q: "What does it truly mean to be born again?",
+        a: "To be born again is to share in the resurrection life of Christ. It means being raised with Him and becoming a participant in the divine nature — not merely forgiven, but re-gened with God’s life.",
+        link: "Read: Episterizo, Chapter 1"
+      },
+      {
+        q: "Why is believing in the resurrection essential to salvation?",
+        a: "Romans 10 : 9 declares that salvation comes by confessing Jesus as Lord and believing God raised Him from the dead. Resurrection is the proof of divine sonship and the source of our new life.",
+        link: "Read: Episterizo, Chapter 1"
+      },
+      {
+        q: "Can someone be a churchgoer and still not be born again?",
+        a: "Yes. Church attendance or moral reform doesn’t equal new birth. Only the joint-resurrection experience with Christ makes one a new creation seated with Him in heavenly places.",
+        link: "Read: Episterizo, Chapter 1"
+      },
+      {
+        q: "Why shouldn’t believers focus only on the cross?",
+        a: "The cross was the means to an end — death to redeem. The resurrection is the end — life to reign. The believer lives beyond the cross in the power and riches of resurrection life.",
+        link: "Read: Episterizo, Chapter 1"
+      }
+    ]
+  }
+  ,
+  {
+    id: 2,
+    slug: 'salvation-divine-exchange-or-participation',
+    chapter: "Salvation — Divine Exchange or Divine Participation?",
+    tagline: "Revealing that Jesus didn’t substitute man’s place but included man in His death and resurrection.",
+    questions: [
+      {
+        q: "What is the difference between divine exchange and divine participation?",
+        a: "Divine exchange teaches substitution — Jesus took man’s place. Divine participation reveals identification — man died and rose with Christ. The believer’s salvation isn’t a swap but a shared life.",
+        link: "Read: Episterizo, Chapter 2"
+      },
+      {
+        q: "Did Jesus die for us or with us?",
+        a: "He died both for us and with us. His death was representative, yet inclusive — our old man was crucified with Him so that we could share His new life.",
+        link: "Read: Episterizo, Chapter 2"
+      },
+      {
+        q: "Why is substitution not the full picture of salvation?",
+        a: "Substitution only handles punishment; participation produces transformation. The cross removed sin’s penalty, but participation in Christ’s resurrection made us new creations.",
+        link: "Read: Episterizo, Chapter 2"
+      },
+      {
+        q: "How does divine participation affect the believer’s nature?",
+        a: "Through participation, the believer becomes one spirit with the Lord. Salvation is not God tolerating a sinner — it’s God reproducing Himself in man.",
+        link: "Read: Episterizo, Chapter 2"
+      },
+      {
+        q: "Is salvation just forgiveness of sins?",
+        a: "Forgiveness clears the record; salvation recreates the man. The goal of the cross was not pardon but regeneration — bringing man into the God-kind of life.",
+        link: "Read: Episterizo, Chapter 2"
+      },
+      {
+        q: "What happens if one believes only in the substitution aspect?",
+        a: "He may live forgiven but powerless. Full salvation experience begins when one believes he died and rose *with* Christ — sharing in His righteousness and dominion.",
+        link: "Read: Episterizo, Chapter 2"
+      }
+    ]
+  }
+  ,
+  {
+    id: 3,
+    slug: 'two-sins-two-deaths-two-confessions',
+    chapter: "Two Sins, Two Deaths, Two Confessions",
+    tagline: "Understanding that not all sin leads to death and how confession differs for believers and unbelievers.",
+    questions: [
+      {
+        q: "What are the two kinds of sin mentioned in Scripture?",
+        a: "The first is the sin unto death—Adam’s inherited sin nature. The second is sin not unto death—acts committed by ignorance or weakness. The former is removed by Christ’s sacrifice; the latter by continual fellowship.",
+        link: "Read: Episterizo, Chapter 3"
+      },
+      {
+        q: "What is meant by 'sin unto death'?",
+        a: "It refers to Adam’s sin that brought spiritual death on all mankind. Only Jesus’ death and resurrection dealt with it once and for all.",
+        link: "Read: Episterizo, Chapter 3"
+      },
+      {
+        q: "Can a believer commit the sin unto death?",
+        a: "No. The believer is no longer in Adam but in Christ. He has passed from death to life; sin unto death cannot be imputed to him.",
+        link: "Read: Episterizo, Chapter 3"
+      },
+      {
+        q: "What happens when a believer sins after salvation?",
+        a: "He doesn’t lose salvation but breaks fellowship. The remedy is confession of faith, not begging for forgiveness, since sin was already judged in Christ.",
+        link: "Read: Episterizo, Chapter 3"
+      },
+      {
+        q: "Why do some still confess sins daily?",
+        a: "Because they mistake relationship for fellowship. Salvation is permanent; fellowship is maintained by acknowledging truth, not repeated guilt.",
+        link: "Read: Episterizo, Chapter 3"
+      },
+      {
+        q: "What are the two types of confession?",
+        a: "The sinner confesses Jesus as Lord for salvation. The saint confesses his faith in what Christ has done, not his faults for forgiveness.",
+        link: "Read: Episterizo, Chapter 3"
+      },
+      {
+        q: "What does 1 John 1:9 really mean for believers?",
+        a: "It’s not a sinner’s repentance verse but a restoration verse for fellowship. Confession here means agreeing with God’s truth, not re-crucifying Jesus.",
+        link: "Read: Episterizo, Chapter 3"
+      },
+      {
+        q: "Can confession cleanse sin?",
+        a: "Confession doesn’t cleanse; the blood already has. Confession aligns the believer with the cleansing that’s already a finished work.",
+        link: "Read: Episterizo, Chapter 3"
+      },
+      {
+        q: "What does it mean that there are two deaths?",
+        a: "The first death is spiritual separation from God; the second is physical death. Jesus died both spiritually and physically to conquer both for us.",
+        link: "Read: Episterizo, Chapter 3"
+      },
+      {
+        q: "Why must believers understand these two confessions?",
+        a: "Because wrong confession produces fear and guilt. Right confession affirms identity in Christ, keeping the believer established in grace.",
+        link: "Read: Episterizo, Chapter 3"
+      }
+    ]
+  }
+  ,
+  {
+    id: 4,
+    slug: 'the-overcomer-pattern-life-of-zion',
+    chapter: "The Overcomer — The Pattern and Life of Zion",
+    tagline: "Revealing the believer’s victorious pattern in Christ and his life as a citizen of Zion.",
+    questions: [
+      {
+        q: "Who is the Overcomer according to Scripture?",
+        a: "The Overcomer is the believer who identifies with Christ’s victory over sin, death, and the world. Every believer is born into this victory, not struggling to attain it.",
+        link: "Read: Episterizo, Chapter 4"
+      },
+      {
+        q: "What is the 'pattern' of the Overcomer?",
+        a: "Jesus is the divine pattern. The believer mirrors His life—living from victory, not toward it. Our pattern is resurrection life expressed through faith and obedience.",
+        link: "Read: Episterizo, Chapter 4"
+      },
+      {
+        q: "What does it mean to live the life of Zion?",
+        a: "The life of Zion is living from the heavenly realm where Christ dwells. It’s a life above limitation, corruption, and defeat, manifesting divine dominion on earth.",
+        link: "Read: Episterizo, Chapter 4"
+      },
+      {
+        q: "Is victory automatic for every believer?",
+        a: "Victory is a gift by nature, but experience by knowledge. Every believer has it in spirit, but it’s manifested through revelation and faith walk.",
+        link: "Read: Episterizo, Chapter 4"
+      },
+      {
+        q: "What separates an Overcomer from an ordinary believer?",
+        a: "Revelation. The Overcomer knows who he is in Christ and acts accordingly. Ignorance produces struggle; revelation produces triumph.",
+        link: "Read: Episterizo, Chapter 4"
+      },
+      {
+        q: "What is meant by 'life in Zion' being incorruptible?",
+        a: "It means the believer’s life in Christ cannot decay or diminish. Zion life is divine life—ever fresh, ever victorious, immune to death and sin.",
+        link: "Read: Episterizo, Chapter 4"
+      },
+      {
+        q: "How does the believer enforce victory daily?",
+        a: "By confession of faith and meditation on the Word. Victory is maintained by alignment with truth, not by fighting the devil or circumstances.",
+        link: "Read: Episterizo, Chapter 4"
+      },
+      {
+        q: "What is the believer’s warfare in the life of Zion?",
+        a: "It’s not carnal battle but faith rest. The warfare is maintaining truth and resisting deception, for Christ already conquered every enemy.",
+        link: "Read: Episterizo, Chapter 4"
+      },
+      {
+        q: "What does it mean to reign in life with Christ?",
+        a: "It means exercising dominion over sin, sickness, and death through righteousness. Reigning is not future—it’s a present reality of the new creation.",
+        link: "Read: Episterizo, Chapter 4"
+      },
+      {
+        q: "Why is understanding Zion essential for spiritual growth?",
+        a: "Because Zion defines the believer’s origin and realm. Until one knows he’s from Zion, he’ll live as though from the earth. Knowledge of Zion births confidence and stability.",
+        link: "Read: Episterizo, Chapter 4"
+      }
+    ]
+  }
+  ,
+  {
+    id: 5,
+    slug: 'the-walk-of-the-believer',
+    chapter: "The Walk of the Believer",
+    tagline: "Exploring the dimensions of the believer’s walk—how to express the new life in daily conduct and purpose.",
+    questions: [
+      {
+        q: "What does it mean to 'walk' in Scripture?",
+        a: "In Greek, 'walk' speaks of consistent lifestyle or manner of living. To walk in the Spirit means to habitually conduct life according to the new nature within.",
+        link: "Read: Episterizo, Chapter 5"
+      },
+      {
+        q: "What is the difference between Peripateo and Stoicheo?",
+        a: "Peripateo means general conduct in life; Stoicheo means keeping in step with divine order. Peripateo is living; Stoicheo is aligning that living with God’s rhythm.",
+        link: "Read: Episterizo, Chapter 5"
+      },
+      {
+        q: "What does Emperipateo signify?",
+        a: "Emperipateo depicts walking around within divine boundaries—living fully conscious of God’s presence everywhere you go.",
+        link: "Read: Episterizo, Chapter 5"
+      },
+      {
+        q: "What does Orthopodeo mean in Galatians 2:14?",
+        a: "Orthopodeo means walking straight or uprightly according to the truth of the gospel. It’s maintaining doctrinal accuracy and moral consistency.",
+        link: "Read: Episterizo, Chapter 5"
+      },
+      {
+        q: "What about Poreuomai?",
+        a: "Poreuomai carries the idea of purposeful journeying—living with divine direction, not wandering aimlessly. Every step is toward destiny.",
+        link: "Read: Episterizo, Chapter 5"
+      },
+      {
+        q: "How does one walk worthy of the Lord?",
+        a: "By letting inner realities govern outward actions—expressing love, humility, and obedience as fruits of the Spirit, not human effort.",
+        link: "Read: Episterizo, Chapter 5"
+      },
+      {
+        q: "Can a believer walk in the flesh and still be spiritual?",
+        a: "No. To walk in the flesh is to depend on self; to walk in the Spirit is to depend on Christ within. They are mutually exclusive patterns of life.",
+        link: "Read: Episterizo, Chapter 5"
+      },
+      {
+        q: "What empowers the believer’s walk?",
+        a: "Grace. The same power that raised Christ enables daily living. The Spirit energizes the believer’s will and emotions to manifest divine conduct.",
+        link: "Read: Episterizo, Chapter 5"
+      },
+      {
+        q: "Why are there many Greek words for 'walk'?",
+        a: "Because walking in Christ is multidimensional—character, doctrine, fellowship, and mission. Each term highlights a unique expression of divine life.",
+        link: "Read: Episterizo, Chapter 5"
+      },
+      {
+        q: "How does right walking glorify God?",
+        a: "When believers express Christ’s nature visibly, the world sees the invisible God. Walking rightly is evangelism in motion.",
+        link: "Read: Episterizo, Chapter 5"
+      }
+    ]
+  }
+  ,
+  {
+    id: 6,
+    slug: 'glossolalia-speaking-in-tongues',
+    chapter: "Glossolalia — Speaking in Tongues",
+    tagline: "Unveiling the purpose, kinds, and power of tongues as a vital expression of the Spirit-filled life.",
+    questions: [
+      {
+        q: "What is glossolalia?",
+        a: "Glossolalia simply means speaking in languages inspired by the Holy Spirit. It is a divine vocal miracle where the human spirit gives utterance by the Spirit of God.",
+        link: "Read: Episterizo, Chapter 6"
+      },
+      {
+        q: "Is speaking in tongues for every believer?",
+        a: "Yes. Every believer who receives the Holy Spirit can and should speak in tongues. It is not a gift for a few but a sign for all who believe.",
+        link: "Read: Episterizo, Chapter 6"
+      },
+      {
+        q: "What are 'diverse kinds of tongues'?",
+        a: "They are the many operations of glossolalia—personal prayer tongues, ministry tongues, tongues for interpretation, and tongues as a sign to unbelievers.",
+        link: "Read: Episterizo, Chapter 6"
+      },
+      {
+        q: "What is the difference between 'new tongues' and 'other tongues'?",
+        a: "‘New tongues’ refer to the believer’s personal prayer language; ‘other tongues’ are Spirit-inspired languages used publicly or supernaturally understood by others.",
+        link: "Read: Episterizo, Chapter 6"
+      },
+      {
+        q: "Why did Jesus say believers will speak with new tongues?",
+        a: "Because tongues mark the new creation—new life, new language, new realm of expression. It’s the believer’s proof of being born of the Spirit.",
+        link: "Read: Episterizo, Chapter 6"
+      },
+      {
+        q: "How do tongues edify the believer?",
+        a: "Tongues build up the inner man. When you speak mysteries to God, your spirit is charged, strengthened, and aligned with divine will.",
+        link: "Read: Episterizo, Chapter 6"
+      },
+      {
+        q: "Why does Paul say tongues are mysteries?",
+        a: "Because they bypass human reasoning. In tongues, the spirit prays secrets—divine codes of destiny and revelation that the mind cannot conceive.",
+        link: "Read: Episterizo, Chapter 6"
+      },
+      {
+        q: "Do I need interpretation when I pray in tongues privately?",
+        a: "No. Private prayer in tongues is communication with God. Interpretation applies mainly in public ministry for the edification of others.",
+        link: "Read: Episterizo, Chapter 6"
+      },
+      {
+        q: "Can speaking in tongues be learned or faked?",
+        a: "No one learns real tongues; it is imparted by the Spirit. Counterfeits exist, but genuine tongues carry peace, power, and presence that cannot be mimicked.",
+        link: "Read: Episterizo, Chapter 6"
+      },
+      {
+        q: "What happens spiritually when I pray long in tongues?",
+        a: "Your spirit gains ascendancy over the flesh. You download divine blueprints, strengthen faith, and align your atmosphere with heaven’s flow.",
+        link: "Read: Episterizo, Chapter 6"
+      },
+      {
+        q: "Is there a wrong way to speak in tongues?",
+        a: "Only when done without consciousness or reverence. Tongues must proceed from faith and understanding, not mechanical repetition or showmanship.",
+        link: "Read: Episterizo, Chapter 6"
+      },
+      {
+        q: "What is the relationship between tongues and prophecy?",
+        a: "Tongues with interpretation equal prophecy. Both are vocal gifts revealing the mind of God—tongues encoded, prophecy decoded.",
+        link: "Read: Episterizo, Chapter 6"
+      },
+      {
+        q: "Why did Paul thank God he spoke in tongues more than all?",
+        a: "Because he understood its value. Constant tongues fellowship kept him in revelation, divine strength, and continuous communion with the Spirit.",
+        link: "Read: Episterizo, Chapter 6"
+      },
+      {
+        q: "Does the devil understand tongues?",
+        a: "No. Tongues is encrypted speech—Spirit-to-Spirit communication. The adversary cannot decode or interrupt that frequency.",
+        link: "Read: Episterizo, Chapter 6"
+      },
+      {
+        q: "Can tongues help in making decisions?",
+        a: "Absolutely. Extended praying in tongues sensitizes the spirit to divine guidance, enabling accurate decisions and prophetic clarity.",
+        link: "Read: Episterizo, Chapter 6"
+      },
+      {
+        q: "What happens when believers pray in tongues together?",
+        a: "Corporate tongues create unified spiritual resonance—an atmosphere charged with divine power, revelation, and angelic activity.",
+        link: "Read: Episterizo, Chapter 6"
+      }
+    ]
+  }
+  ,
+  {
+    id: 7,
+    slug: 'the-mechanics-of-the-anointing',
+    chapter: "The Mechanics of the Anointing",
+    tagline: "Unveiling the operation, purpose, and continuity of the anointing in the believer’s life.",
+    questions: [
+      {
+        q: "What is the anointing?",
+        a: "The anointing is the operation of the Holy Spirit upon and within a person, enabling divine function. It is God’s power manifested for assignment and service.",
+        link: "Read: Episterizo, Chapter 7"
+      },
+      {
+        q: "Is the anointing different from the Holy Spirit?",
+        a: "The Holy Spirit is the Person; the anointing is His activity. Wherever He works, that manifestation is called the anointing.",
+        link: "Read: Episterizo, Chapter 7"
+      },
+      {
+        q: "What is the purpose of the anointing?",
+        a: "It equips believers to carry out God’s will—teaching, healing, preaching, leading, and demonstrating kingdom power effectively.",
+        link: "Read: Episterizo, Chapter 7"
+      },
+      {
+        q: "Can a believer lose the anointing?",
+        a: "The indwelling Spirit never leaves, but His outward operation can be stifled by disobedience or unbelief. Fellowship maintains flow.",
+        link: "Read: Episterizo, Chapter 7"
+      },
+      {
+        q: "How is the anointing maintained?",
+        a: "By staying filled with the Spirit—through prayer, worship, obedience, and meditating on the Word. The anointing thrives in yielded vessels.",
+        link: "Read: Episterizo, Chapter 7"
+      },
+      {
+        q: "Are there levels or measures of the anointing?",
+        a: "Yes. Believers grow from measure to fullness. Faithfulness and revelation increase capacity for greater manifestations.",
+        link: "Read: Episterizo, Chapter 7"
+      },
+      {
+        q: "What is the difference between being anointed and being gifted?",
+        a: "A gift is an ability; the anointing is empowerment. Gifts can function naturally, but anointing gives supernatural effectiveness.",
+        link: "Read: Episterizo, Chapter 7"
+      },
+      {
+        q: "Does the anointing rest only on ministers?",
+        a: "No. Every believer has an anointing from the Holy One. Ministry offices differ in expression, but all share the same source.",
+        link: "Read: Episterizo, Chapter 7"
+      },
+      {
+        q: "How does the anointing teach?",
+        a: "The anointing within illuminates truth to the heart beyond intellect. It makes revelation personal and practical.",
+        link: "Read: Episterizo, Chapter 7"
+      },
+      {
+        q: "Why must believers understand the mechanics of the anointing?",
+        a: "Because ignorance breeds misuse. Knowing how it operates ensures the believer flows accurately with God and not emotion or hype.",
+        link: "Read: Episterizo, Chapter 7"
+      }
+    ]
+  }
+  ,
+  {
+    id: 8,
+    slug: 'is-the-believer-under-law',
+    chapter: "Is the Believer Under Law?",
+    tagline: "Explaining the believer’s freedom from the Mosaic law and life in the higher law of the Spirit.",
+    questions: [
+      {
+        q: "Is the believer still under the Ten Commandments?",
+        a: "No. The believer is under the law of the Spirit of life in Christ Jesus, not the Mosaic code. The moral intent is fulfilled in love through the Spirit, not rule-keeping.",
+        link: "Read: Episterizo, Chapter 8"
+      },
+      {
+        q: "Did Jesus come to abolish the law?",
+        a: "He came to fulfill it, not abolish it. By fulfilling it, He rendered it complete so believers now live by His finished work, not the old system.",
+        link: "Read: Episterizo, Chapter 8"
+      },
+      {
+        q: "What is the difference between law and grace?",
+        a: "Law demands; grace supplies. Law says 'do and live'; grace says 'live and therefore do.' Grace empowers what law only commands.",
+        link: "Read: Episterizo, Chapter 8"
+      },
+      {
+        q: "Does grace give license to sin?",
+        a: "Never. Grace empowers righteousness. True understanding of grace produces holiness, not compromise.",
+        link: "Read: Episterizo, Chapter 8"
+      },
+      {
+        q: "Why couldn’t the law make man righteous?",
+        a: "Because it addressed actions, not nature. Only Christ’s life within could change the heart and produce true righteousness.",
+        link: "Read: Episterizo, Chapter 8"
+      },
+      {
+        q: "What replaced the old law for believers?",
+        a: "The law of the Spirit of life in Christ Jesus—an inward principle where the Spirit guides and empowers obedience from within.",
+        link: "Read: Episterizo, Chapter 8"
+      },
+      {
+        q: "What does Paul mean by 'we are not under law but under grace'?",
+        a: "He means believers no longer relate to God through legal demands but through favor and life in the Spirit. Grace is the new governing system.",
+        link: "Read: Episterizo, Chapter 8"
+      },
+      {
+        q: "Why was the law called a schoolmaster?",
+        a: "Because it tutored man until Christ came. Once faith arrived, the believer graduated from external regulations to internal guidance.",
+        link: "Read: Episterizo, Chapter 8"
+      },
+      {
+        q: "How should believers view the Old Testament law today?",
+        a: "As shadow and instruction pointing to Christ. It reveals principles but not requirements for the new-creation life.",
+        link: "Read: Episterizo, Chapter 8"
+      },
+      {
+        q: "What proves a believer lives above the law?",
+        a: "When love rules his heart. Love is the fulfillment of the law, and the Spirit sheds that love abroad within every born-again believer.",
+        link: "Read: Episterizo, Chapter 8"
+      }
+    ]
+  }
+  ,
+  {
+    id: 9,
+    slug: 'the-need-for-faith-confessions',
+    chapter: "The Need for Faith Confessions!",
+    tagline: "Establishing the believer in the power of speaking God’s Word to sustain revelation and victory.",
+    questions: [
+      {
+        q: "What is a faith confession?",
+        a: "It is the declaration of what God has said concerning you. Faith speaks in agreement with divine truth, not circumstances.",
+        link: "Read: Episterizo, Chapter 9"
+      },
+      {
+        q: "Why is confession necessary for believers?",
+        a: "Because faith is voiced. Believing alone doesn’t complete faith—confession seals it. The Word must be spoken to manifest results.",
+        link: "Read: Episterizo, Chapter 9"
+      },
+      {
+        q: "What is the difference between confession and prayer?",
+        a: "Prayer asks; confession declares. Prayer seeks God’s intervention; confession affirms what He has already done.",
+        link: "Read: Episterizo, Chapter 9"
+      },
+      {
+        q: "How does confession relate to salvation?",
+        a: "Romans 10:9 shows salvation is received by believing and confessing. What is believed in the heart must be confessed with the mouth.",
+        link: "Read: Episterizo, Chapter 9"
+      },
+      {
+        q: "Can wrong confessions affect a believer’s life?",
+        a: "Absolutely. Words frame experience. Wrong confession empowers defeat; right confession sustains victory.",
+        link: "Read: Episterizo, Chapter 9"
+      },
+      {
+        q: "How often should believers make faith confessions?",
+        a: "Continually. Faith must stay vocal; consistent confession keeps the heart aligned with truth and silences doubt.",
+        link: "Read: Episterizo, Chapter 9"
+      },
+      {
+        q: "What is the relationship between confession and renewal of the mind?",
+        a: "Confession reinforces new creation realities in consciousness. As the mouth speaks, the mind aligns, transforming perception.",
+        link: "Read: Episterizo, Chapter 9"
+      },
+      {
+        q: "Does confession create or reveal reality?",
+        a: "It doesn’t create truth; it enforces it. Confession manifests spiritual reality in the natural by giving voice to divine law.",
+        link: "Read: Episterizo, Chapter 9"
+      },
+      {
+        q: "What role does the Holy Spirit play in confession?",
+        a: "He is the power behind the spoken Word. When you confess, the Spirit gives life to your words, producing manifestation.",
+        link: "Read: Episterizo, Chapter 9"
+      },
+      {
+        q: "Why must faith confessions continue even after manifestation?",
+        a: "Because confession is not just for obtaining—it’s for maintaining. Constant affirmation keeps the believer established in victory.",
+        link: "Read: Episterizo, Chapter 9"
+      }
+    ]
+  }
+]
+
+export default episterizoData
